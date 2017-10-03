@@ -1,26 +1,28 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+Project IONIC 3 
 
-## How to use this template
+## Ecommerce App
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+*Baye Ndémba SEYE développeur Web et mobile.
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+Pour utiliser cet applicatio, il suffit de le télécharger et executer les commandes suivantes:
 
-### With the Ionic CLI:
+###Commande Ionic CLI:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Installer les dépandances (node_modules) `npm install`
+
+###Mais avant assurer vous que vous avez deja installer ionic et cordova et évidement nodejs.
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start mySideMenu sidemenu
+$ ionic start LapinsProject sidemenu
 ```
 
-Then, to run it, cd into `mySideMenu` and run:
+Dans le projet LapinsProject `LapinsProject` executer:
 
 ```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
+$ ionic cordova platform add android
+$ ionic cordova run android
 ```
 
-Substitute ios for android if not on a Mac.
+Bon Courage.
 
